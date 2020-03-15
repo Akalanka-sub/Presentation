@@ -1,4 +1,4 @@
-# Docsify Template
+# This is my example
 > How to build a docs site with _Docsify-JS_ and Github Pages
 
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
