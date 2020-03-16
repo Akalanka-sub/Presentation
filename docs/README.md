@@ -1,5 +1,5 @@
 # This is my example
-<img src="./img/lamp_outlet_idea_electricity_120422_1366x768.jpg"/>
+<img src="./img/lamp_outlet_idea_electricity_120422_1366x768.jpg" width="300" height="200"/>
 
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-template.svg)](https://GitHub.com/MichaelCurrin/docsify-template/tags/)
